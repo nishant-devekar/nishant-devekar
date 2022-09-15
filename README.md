@@ -1,5 +1,5 @@
 ### Hi there, I'm Nishant 👋
-Frontend Web Developer | currently pursuing Bachelor's degree in Computer Applications (Second Year)
+Frontend Web Developer | currently pursuing Bachelor's degree in Computer Applications (Final Year)
 
 ### Skills
 
