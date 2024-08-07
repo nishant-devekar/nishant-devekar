@@ -1,5 +1,5 @@
 ### Hi there, I'm Nishant 👋
-Frontend Web Developer | currently pursuing Bachelor's degree in Computer Applications (Final Year)
+Senior Full Stack Developer | Specializing in AR for 3D Menus | Angular, ASP .NET, ThreeJs, AWS
 
 ### Skills
 
