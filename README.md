@@ -1,4 +1,9 @@
-# 👋 Hey there, I'm Nishant!
+> **"Code only becomes meaningful when you're not just fixing problems — you're diagnosing pain.  
+> Not the kind you personally suffer, but the kind you understand deeply enough to feel responsible for.  
+> I’m Nishant, and I build systems by listening to real-world chaos, decoding its symptoms,  
+> and solving at the root — without being unjust to any voice hidden in the noise."**
+
+---
 
 **Architecting the future of food commerce.**  
 Currently shaping global B2B food supply chains at **[FoodBridge.io](https://foodbridge.io)** as a Product Strategist, System Architect, and hands-on Builder.
