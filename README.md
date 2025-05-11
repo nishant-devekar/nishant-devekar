@@ -1,36 +1,61 @@
-### Hi there, I'm Nishant 👋
-Senior Full Stack Developer | Specializing in AR for 3D Menus | Angular, ASP .NET, ThreeJs, AWS
+# 👋 Hey there, I'm Nishant!
 
-### Skills
+**Architecting the future of food commerce.**  
+Currently shaping global B2B food supply chains at **[FoodBridge.io](https://foodbridge.io)** as a Product Strategist, System Architect, and hands-on Builder.
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-</p>
+---
 
-### Socials
+### 🌍 What I’m Doing
 
-<p align="left"> <a href="https://www.github.com/nishant-devekar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nishant-devekar-259407232/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+I’m not just writing code —  
+I’m **orchestrating a transformation** in how food moves through complex supply chains.
 
-<b>My GitHub Stats</b>
+At **FoodBridge**, we’re building a unified digital infrastructure for the **entire B2B food ecosystem** — connecting sellers, buyers, logistics, finance, and marketing under one intelligent, scalable platform.
 
-<a href="http://www.github.com/nishant-devekar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-devekar&stroke=3382ed&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+From onboarding the smallest merchant in local region to enabling international trade and transparent workflows, we’re redefining how the food industry collaborates, transacts, and grows.
 
-<a href="http://www.github.com/nishant-devekar"><img src="https://activity-graph.herokuapp.com/graph?username=nishant-devekar&bg_color=1c1917&color=3382ed&line=0891b2&point=3382ed&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+---
 
-<a href="https://github.com/nishant-devekar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-devekar&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 🚀 Why It Matters
 
+> In a world where food supply chains are fragmented and inefficient,  
+> **I’m creating the rails for a connected, collaborative, and data-driven future.**
 
+- Building for **scale across regions**
+- Empowering **local vendors** with tools once exclusive to enterprise
+- Enabling **cross-border commerce** through a digital-first B2B network
+- Bringing clarity to **inventory, credit, commissions**, and operational chaos
+
+---
+
+### 🧠 My Role
+
+At **FoodBridge.io**, I operate as:
+
+- 🧭 **Product Strategist** – Translating industry pain points into actionable product journeys  
+- 🏗️ **System Architect** – Designing flexible infrastructures that accommodate regional complexity  
+- 🧑‍💻 **Builder** – Still pushing code, from microservices to data flows
+- 🧪 **Quality Advocate** – Implementing **automated testing** frameworks with **Selenium**, **Rest Assured**, and **BDD** to ensure reliability at scale
+- 🧠 **Vision Holder** – Driving innovation at the intersection of supply chain and software  
+
+---
+
+### 🔬 Tech When It Matters
+
+I architect and build using tools like:  
+`Angular`, `NestJS`, `React`, `Node.js`, `MongoDB`, `MySQL`, `.NET Core`, `TypeScript`, `C#`, and more.  
+I’ve also ventured into **3D/AR interfaces** to elevate the digital product experience — because even enterprise tools should be delightful.
+
+---
+
+### 📬 Let’s Connect
+
+Curious about how we’re reshaping the food industry?  
+Want to collaborate on meaningful platforms?
+
+📧 Email: [nishant@foodbridge.io](mailto:nishantdevekar@gmail.com)  
+🌐 Web: [foodbridge.io](https://foodbridge.io)  
+
+> *“Don’t just ship features. Ship change.”*
+
+---
