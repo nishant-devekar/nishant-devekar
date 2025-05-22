@@ -58,7 +58,7 @@ I’ve also ventured into **3D/AR interfaces** to elevate the digital product ex
 Curious about how we’re reshaping the food industry?  
 Want to collaborate on meaningful platforms?
 
-📧 Email: [nishant@foodbridge.io](mailto:nishantdevekar@gmail.com)  
+📧 Email: [nishantdevekar@gmail.com](mailto:nishantdevekar@gmail.com)  
 🌐 Web: [foodbridge.io](https://foodbridge.io)  
 
 > *“Don’t just ship features. Ship change.”*
